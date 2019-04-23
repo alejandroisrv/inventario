@@ -1,0 +1,62 @@
+[18-Mar-2019 19:12:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idproducto='' AND cantidad >=' at line 1 in /home3/pando1991/inventario/core/sell.php:71
+Stack trace:
+#0 /home3/pando1991/inventario/core/sell.php(71): PDO->query('UPDATE producto...')
+#1 {main}
+  thrown in /home3/pando1991/inventario/core/sell.php on line 71
+[19-Mar-2019 20:27:14 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:14 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:14 America/Chicago] PHP Warning:  include(): Failed opening '../class/usuarios.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home3/pando1991/inventario/core/loginCore.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/pando1991/inventario/core/loginCore.php on line 4
+[19-Mar-2019 20:27:19 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:19 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:19 America/Chicago] PHP Warning:  include(): Failed opening '../class/usuarios.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home3/pando1991/inventario/core/loginCore.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/pando1991/inventario/core/loginCore.php on line 4
+[19-Mar-2019 20:27:26 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:26 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:26 America/Chicago] PHP Warning:  include(): Failed opening '../class/usuarios.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home3/pando1991/inventario/core/loginCore.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/pando1991/inventario/core/loginCore.php on line 4
+[19-Mar-2019 20:27:27 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:27 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:27 America/Chicago] PHP Warning:  include(): Failed opening '../class/usuarios.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home3/pando1991/inventario/core/loginCore.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/pando1991/inventario/core/loginCore.php on line 4
+[19-Mar-2019 20:27:27 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:27 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:27 America/Chicago] PHP Warning:  include(): Failed opening '../class/usuarios.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home3/pando1991/inventario/core/loginCore.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/pando1991/inventario/core/loginCore.php on line 4
+[19-Mar-2019 20:27:27 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:27 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:27 America/Chicago] PHP Warning:  include(): Failed opening '../class/usuarios.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home3/pando1991/inventario/core/loginCore.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/pando1991/inventario/core/loginCore.php on line 4
+[19-Mar-2019 20:27:28 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:28 America/Chicago] PHP Warning:  include(../class/usuarios.php): failed to open stream: No such file or directory in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:28 America/Chicago] PHP Warning:  include(): Failed opening '../class/usuarios.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home3/pando1991/inventario/core/loginCore.php on line 2
+[19-Mar-2019 20:27:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'usuario' not found in /home3/pando1991/inventario/core/loginCore.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/pando1991/inventario/core/loginCore.php on line 4
+[23-Mar-2019 21:07:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$pedir' (T_VARIABLE) in /home3/pando1991/inventario/core/closeSell.php on line 24
+[23-Mar-2019 21:08:29 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/pando1991/inventario/class/pedidos.php on line 39
+[23-Mar-2019 21:09:45 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/pando1991/inventario/class/pedidos.php:48
+Stack trace:
+#0 /home3/pando1991/inventario/class/pedidos.php(48): PDOStatement->execute(Array)
+#1 /home3/pando1991/inventario/core/closeSell.php(24): pedidos->hacerPedido('', 'visa', '32', '1', '916285776')
+#2 {main}
+  thrown in /home3/pando1991/inventario/class/pedidos.php on line 48

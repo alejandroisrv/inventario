@@ -1,0 +1,39 @@
+[19-Apr-2019 14:33:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/pando1991/inventario/cajaChica.php on line 19
+[19-Apr-2019 14:37:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 14:37:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:09:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:09:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:10:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:10:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:11:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:11:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:12:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:12:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:14:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:14:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:14:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:16:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:30:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:34:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:35:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:35:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:35:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 27
+[19-Apr-2019 18:35:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:36:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:39:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:39:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:40:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:40:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:40:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:41:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:43:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:48:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:48:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 18:52:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 19:02:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 19:02:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 27
+[19-Apr-2019 19:02:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/pando1991/inventario/pos.php:12) in /home3/pando1991/inventario/nav.php on line 22
+[19-Apr-2019 19:04:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'pedidos' not found in /home3/pando1991/inventario/nuevoPedido.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/pando1991/inventario/nuevoPedido.php on line 6
